@@ -1,0 +1,51 @@
+[
+{
+    "id":1,
+    "name":"NEW",
+    "price" :40,
+    "img" : "https://cdn.whatsapp-shop.com/proxy/insecure/rs:fit:200:200:0/plain/local:///brands/vokzal/newproducts.png?t=28223673"
+},
+
+{
+    "id":2,
+    "name":"BOVONA",
+    "price" :50,
+    "img" :"https://cdnydm.com/permedia/LpjAYt5_fvdezooYh7NJdQ.png?size=1988x1279?t=28223674"
+},
+{
+    "id":3,
+    "name":"VANDY VELLUCCİ",
+    "price" :45,
+    "img" : "https://cdnydm.com/permedia/rvPGsfBj3JSXBeH-swR5cQ.png?size=828x588?t=28223674"
+},
+{
+    "id":4,
+    "name":"SLN",
+    "price" :60,
+    "img" : "https://cdn.whatsapp-shop.com/proxy/insecure/rs:fit:200:200:0/plain/local:///brands/vokzal/selen.png?t=28223674"
+},
+{
+    "id":5,
+    "name":"SAN&FA",
+    "price":80,
+    "img":"https://cdnydm.com/permedia/JCcjI9SD_z3ykGDD7AzAmQ.png?size=1600x936?t=28224429"
+},
+{
+    "id":6,
+    "name":"Jovenna",
+    "price":100,
+    "img":"https://cdn.whatsapp-shop.com/proxy/insecure/rs:fit:200:200:0/plain/local:///brands/vokzal/jovenna.png?t=28224429"
+},
+{
+    "id":7,
+    "name":"BILJANA",
+    "price":50,
+    "img":"https://cdnydm.com/permedia/SfTPul1db3_LCSQO6dsSUQ.png?size=842x595?t=28224429"
+},
+{
+    "id":8,
+    "name":"say",
+    "price":60,
+    "img":"https://cdn.whatsapp-shop.com/proxy/insecure/rs:fit:200:200:0/plain/local:///brands/vokzal/say.png?t=28224492"
+}
+]
